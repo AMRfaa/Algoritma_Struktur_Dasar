@@ -1,6 +1,7 @@
 📘 Tugas 1
 
-📝 Deskripsi Tugas:
+📝 Deskripsi Tugas
+
 Buatlah algoritma dari kasus berikut dengan metode deskripsi:
 
 1. Menentukan bilangan ganjil atau genap.
