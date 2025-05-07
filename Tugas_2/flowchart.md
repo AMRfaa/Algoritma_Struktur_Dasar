@@ -1,6 +1,6 @@
 1. Flowchart menjumlahkan dua buah bilangan
    
-         https://drive.google.com/file/d/1NVzLDSt1hi6d_GZmr3FRc6nXHrlW2z42/view?usp=drive_link
+   https://drive.google.com/file/d/1NVzLDSt1hi6d_GZmr3FRc6nXHrlW2z42/view?usp=drive_link
    pseudocode:
 
        begin
@@ -22,9 +22,9 @@
              >	Jumlahkan bilangan a dan b dengan cara ditambah 
          •	Output
              >	Cetak hasil penjumlahan
-3. Flowchart menghitung luas lingkaran
-
-         https://drive.google.com/file/d/1TFLmGcqJ4RuuKRJ_Rg0O3upOoaC2LYuh/view?usp=sharing
-4. Flowchart mendeteksi bilangan ganjil atau genap
-
-         https://drive.google.com/file/d/1HuUzhONUo1ezhx8RFZ3PNfKN9HeNC4q1/view?usp=sharing
+2. Flowchart menghitung luas lingkaran
+   
+   https://drive.google.com/file/d/1TFLmGcqJ4RuuKRJ_Rg0O3upOoaC2LYuh/view?usp=sharing
+3. Flowchart mendeteksi bilangan ganjil atau genap
+   
+   https://drive.google.com/file/d/1HuUzhONUo1ezhx8RFZ3PNfKN9HeNC4q1/view?usp=sharing
