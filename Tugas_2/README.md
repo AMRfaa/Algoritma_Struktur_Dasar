@@ -1,11 +1,6 @@
-Tugas 2 - Flowchart dan Program Python
+📘 Tugas 2
 
-Menjumlahkan dua buah bilangan
-Flowchart: [Link Flowchart di draw.io untuk penjumlahan]
-(Ganti dengan link asli kamu nanti)
-
-Menghitung luas lingkaran
-Flowchart: [Link Flowchart di draw.io untuk luas lingkaran]
-
-Mendeteksi bilangan ganjil atau genap
-Flowchart: [Link Flowchart di draw.io untuk ganjil/genap]
+    Buat flowchart algoritma dan program dengan menggunakan python untuk
+    1. Menjumlahkan dua buah bilangan
+    2. Menghitung luas lingkaran
+    3. Mendeteksi bilangan ganjil atau genap
