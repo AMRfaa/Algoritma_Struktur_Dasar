@@ -1,4 +1,5 @@
 1. **MENETAPKAN BILANGAN GANJIL ATAU GENAP**
+   
    • INISIASI
    
       > Masukan angka
