@@ -1,8 +1,4 @@
-1. FLOWCHART
-   Link : https://drive.google.com/file/d/1XDzxE6Qb16QSaQ6tyvAj8pEPtFLcEeYA/view?usp=sharing
-
-2. PSEUDOCODE
-   begin
+begin
 	var A is integer
 	var B is integer
 	var C is integer
@@ -23,4 +19,4 @@
  	print("Hasil perkalian matriks A dan B:")
         for row in C:
             print(row)
-   end
+end
