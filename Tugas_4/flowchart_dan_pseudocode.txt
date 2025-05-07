@@ -1,8 +1,7 @@
-# FLOWCHART
+**1. FLOWCHART **
 	Link : https://drive.google.com/file/d/1XDzxE6Qb16QSaQ6tyvAj8pEPtFLcEeYA/view?usp=sharing
 
-# PSEUDOCODE
-
+**2. PSEUDOCODE **
 	begin
 		var A is integer
 		var B is integer
