@@ -8,5 +8,6 @@ Buatlah algoritma dari kasus berikut dengan metode deskripsi:
 2. Menghitung luas lingkaran.
 3. Menentukan semester mahasiswa berdasarkan tahun masuk.
 
-📥 Cara Pengumpulan:
+📥 Cara Pengumpulan
+
 Tugas diketik dan dikumpulkan melalui akun GitHub. Sertakan link repository sesuai instruksi.
