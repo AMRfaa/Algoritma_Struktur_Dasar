@@ -1,4 +1,4 @@
-1. LINK FLOWCHART : https://drive.google.com/file/d/10yv4oPQuEgxhKd1vD4bW-oyeEEHzXdEz/view?usp=sharing
+1. FLOWCHART : https://drive.google.com/file/d/10yv4oPQuEgxhKd1vD4bW-oyeEEHzXdEz/view?usp=sharing
 
   PSEUDOCODE     :
 
@@ -12,7 +12,7 @@
 		print (j)
 	 end
 
-2. LINK FLOWCHART : https://drive.google.com/file/d/1ngrP1kl49wX02_rXJZwQZjIOlHZHIdAb/view?usp=sharing
+2. FLOWCHART : https://drive.google.com/file/d/1ngrP1kl49wX02_rXJZwQZjIOlHZHIdAb/view?usp=sharing
   
         * * * * * * * *
       	  * * * * * * *
@@ -36,14 +36,14 @@
 		print ("* " * (n-i))
 	 end
 
-2. LINK FLOWCHART : https://drive.google.com/file/d/1rtXT83Fb7qRp5tLn9VTSQCs8sP5cFsMo/view?usp=sharing 
- 	      *
- 	     *,*
- 	    *,*,*
-  	   *,*,*,*
- 	  *,*,*,*,*
-  	 *,*,*,*,*,*
-
+2. FLOWCHART : https://drive.google.com/file/d/1rtXT83Fb7qRp5tLn9VTSQCs8sP5cFsMo/view?usp=sharing
+   
+            *
+           *. *
+          *. *. *
+         *. *. *. *
+        *  *. *. *. *
+       *. *. *. *. *. *
   PSEUDOCODE     :
 
 	begin
