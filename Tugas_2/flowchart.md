@@ -27,5 +27,15 @@
    
    https://drive.google.com/file/d/1TFLmGcqJ4RuuKRJ_Rg0O3upOoaC2LYuh/view?usp=sharing
 4. Flowchart mendeteksi bilangan ganjil atau genap
-   
+
    https://drive.google.com/file/d/1HuUzhONUo1ezhx8RFZ3PNfKN9HeNC4q1/view?usp=sharing
+   
+   algoritma:
+   
+       • INISIASI
+         > Masukan angka
+       • PROSES
+         > Jika angka dibagi 2 sisanya adalah 0 maka angka adalah genap, jika tidak maka angka adalah ganjil
+       • OUTPUT
+         > Cetak angka "ganjil" atau "genap"
+
